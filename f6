@@ -1,0 +1,3 @@
+int i=8
+int j=8
+int sum =i+j
